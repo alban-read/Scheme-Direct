@@ -6,11 +6,12 @@ The idea is to enable simple 2D animations and games for Windows to be written i
 
 Functions provided
 
-Allow shapes to be draw. 
+- Allow shapes to be draw. 
 
-Images to be loaded and displayed.
+- Images to be loaded and displayed.
 
-Sounds to be played.
+- Sounds to be played.
+
 
 You can see most of the available functions in the base.ss script.
 
@@ -20,8 +21,10 @@ The small application runs a Scheme script called base.ss when it starts.
 
 The script adds a function to a repeating timer; that function can generate an animation.
 
-Selfie
+**Selfie**
 
 <img src= "https://github.com/alban-read/Scheme-Direct/blob/master/Selfie.PNG">
+
+------
 
 
