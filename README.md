@@ -2,6 +2,8 @@
 
 **This is a simple to use *Direct 2D window* controlled by Chez Scheme.**
 
+[A related version for interactive development is over here](https://github.com/alban-read/Scheme-Windows-Tiled-Shell)
+
 The idea is to play back 2D animations and games for Windows that are written in Scheme.
 
 Only a few functions are provided:-
